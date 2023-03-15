@@ -1,5 +1,5 @@
 # Load Author Week Level data
-```{stata, include=TRUE}
+```stata
 use "~/replication_author_week.dta", clear
 ```
 
